@@ -1,5 +1,5 @@
 import { aboutData, myselfData } from "../Data/data";
-import photo from "../assets/photo.png"
+import photo from "../assets/Photo.png"
 
 const About = ({ no }) => {
   return (
